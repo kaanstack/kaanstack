@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Veysel%20Kaan%20%C4%B0pek&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20DevOps%20%26%20Autonomous%20Systems%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Veysel%20Kaan%20%C4%B0pek&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20SAP%20ABAP%20Developer%20%26%20DevOps%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
 </div>
 
 <p align="center">
@@ -12,40 +12,44 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineering** student at **KTO Karatay University** and currently working in the **IT / SAP Department** at **Meram Unları**, gaining hands-on enterprise software and database experience alongside my academic studies.
+I am a **Computer Engineering** student at **KTO Karatay University** and currently working as an **SAP ABAP Developer** in the **IT Department** at **Meram Unları**, building enterprise-grade software solutions alongside my academic studies.
 
-- 🚀 **Primary Focus:** Cloud Infrastructure, **DevOps** practices, Linux systems, and scalable backend architectures.
-- 🛸 **Autonomous Systems:** Developing GPS-independent emergency landing & telemetry modules for UAVs (**TEKNOFEST** project using ArduPilot, Pixhawk, and MAVLink).
-- 💼 **Enterprise Experience:** Developing custom **SAP ABAP** reports and managing relational database tables in a live production environment.
-- 🌱 **Currently Learning:** Docker, Kubernetes, CI/CD pipelines, Cloud Architecture, and advancing my German proficiency.
-- 🎯 **Career Goal:** Engineering high-impact, mission-critical systems in the defense and aerospace industry.
+- 💼 **Enterprise Development:** Developing custom **SAP ABAP** reports, ALV grids, and managing relational database tables (`Z-tables`) in a live production environment.
+- 🚀 **Cloud & DevOps Focus:** Expanding my expertise in Linux administration, containerization, CI/CD pipelines, and scalable cloud architectures.
+- 🛸 **R&D & Autonomous Systems:** Developing GPS-independent emergency landing & telemetry software for UAVs (**TEKNOFEST** project using Python and MAVLink).
+- 🌱 **Currently Learning:** Docker, Kubernetes, Cloud Infrastructure, and advancing my German proficiency.
+- 🎯 **Career Goal:** Engineering high-impact, mission-critical enterprise and cloud systems in the defense and aerospace industry.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,docker,vscode,cloudflare,netlify" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=sap,c,python,mysql,linux,bash,git,github,docker,vscode,cloudflare,netlify" alt="Tech Stack" />
 </p>
 
-- **Languages:** C, Python, SQL, SAP ABAP, Bash
+- **Enterprise & Languages:** SAP ABAP, Open SQL, C, Python, Bash
 - **DevOps & Cloud:** Linux Administration, Docker, Git/GitHub, Cloudflare (DNS/Security), Netlify
-- **Embedded & Robotics:** ArduPilot SITL, Pixhawk, MAVLink Protocol, Orange Pi (Linux SBCs), LiDAR & Optical Flow Sensors
+- **Embedded & Telemetry:** MAVLink Protocol, ArduPilot SITL, Pixhawk, Orange Pi (Embedded Linux)
 
 ---
 
-### 📌 Featured Projects
+### 📌 Key Experience & Projects
 
-#### 1. 🛸 Autonomous UAV Emergency Telemetry & Landing System (TEKNOFEST)
-- Designing a compact UAV payload module capable of maintaining critical data transmission and executing safe, GPS-independent emergency landings during disaster scenarios or signal jamming.
-- **Tech:** `Python`, `MAVLink`, `ArduPilot SITL`, `Pixhawk`, `Optical Flow & LiDAR`
+#### 1. 💼 Enterprise SAP ABAP Development (`Meram Unları`)
+- Designing and maintaining custom ABAP reports, modularization units, and custom database tables (`Z-tables`) to optimize internal business and logistics workflows.
+- **Tech:** `SAP ABAP`, `Open SQL`, `SAP GUI`, `ERP Systems`
 
-#### 2. 🤖 Local Voice-Enabled Desktop AI Assistant
-- Prototyping a standalone, compact hardware AI assistant powered by an **Orange Pi Zero 3** running embedded Linux, featuring local persistent memory, voice interaction, and a dedicated OLED/TFT status display.
-- **Tech:** `Python`, `Embedded Linux`, `Orange Pi`, `Hardware Prototyping`
+#### 2. 🛸 Autonomous UAV Telemetry & ERP Logging System (TEKNOFEST)
+- Developing a Python/MAVLink ground station and emergency landing module for GPS-denied environments, featuring a structured post-flight telemetry logging concept for enterprise maintenance tracking.
+- **Tech:** `Python`, `MAVLink`, `ArduPilot SITL`, `SAP Integration`
 
-#### 3. 🌐 Personal Portfolio & Tech Blog (`kaanipek.net.tr`)
-- Built and deployed a personal engineering portfolio with custom domain routing, SSL security, and automated email forwarding.
+#### 3. 🤖 Local Voice-Enabled Desktop AI Assistant
+- Prototyping a standalone hardware AI assistant powered by an **Orange Pi Zero 3** running embedded Linux, featuring local persistent memory, voice interaction, and an OLED/TFT status display.
+- **Tech:** `Python`, `Embedded Linux`, `Orange Pi`
+
+#### 4. 🌐 Personal Portfolio & Tech Blog (`kaanipek.net.tr`)
+- Deployed a personal engineering portfolio with custom `.tr` domain routing, SSL security, and automated email forwarding.
 - **Tech:** `HTML/CSS/JS`, `Cloudflare`, `Netlify`
 
 ---
@@ -64,5 +68,5 @@ I am a **Computer Engineering** student at **KTO Karatay University** and curren
 ---
 
 <p align="center">
-  <i>"Building reliable systems from bare metal to the cloud."</i>
+  <i>"Bridging enterprise software reliability with modern cloud architectures."</i>
 </p>

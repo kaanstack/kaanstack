@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Veysel%20Kaan%20%C4%B0pek&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20SAP%20ABAP%20Developer%20%26%20DevOps%20Enthusiast&descAlignY=60&descSize=16" width="100%"/>
+  <a href="https://kaanipek.net.tr">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Veysel+Kaan+%C4%B0pek+%F0%9F%91%8B;Computer+Engineering+Student;SAP+ABAP+Developer;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
@@ -70,3 +72,5 @@ I am a **Computer Engineering** student at **KTO Karatay University** and curren
 <p align="center">
   <i>"Bridging enterprise software reliability with modern cloud architectures."</i>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=kaanstack&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
